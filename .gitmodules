@@ -1,4 +1,8 @@
-[submodule "alx-pre_course"]
-	path = alx-pre_course
-	url = https://github.com/alx-Ebubechukwu-Okeke/alx-pre_course
+[submodule "src/modules/trackchangeshttps:/github.com/Komodo/trackchanges.git"]
+	path = src/modules/trackchangeshttps:/github.com/Komodo/trackchanges.git
+	url = https://github.com/Komodo/trackchanges.git
+	branch = master
+[submodule "src/modules/alx-pre_course"]
+	path = src/modules/alx-pre_course
+	url = https://github.com/alx-Ebubechukwu-Okeke/alx-pre_course.git
 	branch = master
