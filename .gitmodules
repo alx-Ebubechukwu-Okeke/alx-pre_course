@@ -1,0 +1,4 @@
+[submodule "alx-pre_course"]
+	path = alx-pre_course
+	url = https://github.com/alx-Ebubechukwu-Okeke/alx-pre_course
+	branch = master
